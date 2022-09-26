@@ -1,0 +1,12 @@
+.country {
+    background-color: dodgerblue;
+    color: white;
+    padding: 20px;
+    border-radius: 10px;
+    border: 2px solid orange;
+    margin-bottom: 5px;
+  }
+
+.country img {
+  width: 150px;
+}
